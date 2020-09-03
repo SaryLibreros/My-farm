@@ -1,2 +1,8 @@
-# Villa-Platzi
-Villa platzi es la solución al reto propuesto en el curso de programación básica de Platzi
+# ¡Small town Platzi! 👩‍💻
+
+Hello everybody! 👋
+This project was born as a challenge in the course of web development of Platzi.
+
+Tools and programs: 
+##### ⬜◼HTML & Javascript ◼⬜
+
